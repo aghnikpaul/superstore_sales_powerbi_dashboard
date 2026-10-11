@@ -81,8 +81,8 @@ Order Date, Ship Date, Customer ID, Customer Name, Segment, Country, City, State
 
 ## How to open
 
-1. Install the latest **Power BI Desktop** (free, Windows).
-2. Download `Superstore.pbix` from this repository. `[update the filename]`
+1. Open **Power BI Desktop**.
+2. Download `Superstore.pbix` from /dasboard or the template `Superstore.pbit` from /template of this repository. `[update the filename]`
 3. Open it in Power BI Desktop. The data is embedded, so nothing else is needed.
 
 A PDF export of every page is in the `/report` folder for quick viewing without Power BI.
