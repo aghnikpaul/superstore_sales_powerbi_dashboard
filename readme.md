@@ -207,6 +207,9 @@ Power BI Desktop, Power Query (M), DAX
 ## Want this for your shop?
 
 Send me your orders export (Etsy, Shopify or other businesses) and I'll build a version for your business.
+Aghnik Paul
+Data Analyst & ML Consultant
 
+- E-mail:    aghnik.stat@gmail.com
 - LinkedIn:  https://www.linkedin.com/in/aghnikpaul
 - Portfolio: https://aghnikpaul.page.gd
